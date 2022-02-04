@@ -12,11 +12,11 @@ h1{ text-align: center; color: #666; text-shadow: 1px 1px #fff; font-size: 3em;}
 	margin: 2em auto;
 }
 
-.lesson__ls {
+.lesson-ls {
 	padding: 0;
 }
 
-.lesson__title{
+.lesson-title{
 	padding: 0 15px;
 	color: #fff;
 	line-height: 2.5;
@@ -26,7 +26,7 @@ h1{ text-align: center; color: #666; text-shadow: 1px 1px #fff; font-size: 3em;}
 	cursor: pointer;
 }
 
-.lesson__desc{
+.lesson-desc{
 	display: none;
 	position: relative;
 	padding: .667em 1em;
@@ -37,7 +37,7 @@ h1{ text-align: center; color: #666; text-shadow: 1px 1px #fff; font-size: 3em;}
 	background-color: #fff;
 }
 
-.lesson__desc::before{
+.lesson-desc::before{
 	position: absolute;
 	top: -20px;
 	left: 30px;
@@ -46,10 +46,10 @@ h1{ text-align: center; color: #666; text-shadow: 1px 1px #fff; font-size: 3em;}
 	border-bottom-color: #fff;
 }
 
-.lesson__title--graphic{ background-color: #0E4D90;}
+.lesson-title-graphic{ background-color: #0E4D90;}
 
-.lesson__title--web{ background-color: #53B22B;}
+.lesson-title-web{ background-color: #53B22B;}
 
-.lesson__title--ui{ background-color: #f90;}
+.lesson-title-ui{ background-color: #f90;}
 
-.lesson__title--painting{ background-color: #666;}
+.lesson-title-painting{ background-color: #666;}
