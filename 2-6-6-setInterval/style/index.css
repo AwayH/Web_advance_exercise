@@ -30,7 +30,7 @@ h1 {
 	box-shadow: 10px 10px #222;
 }
 
-.slide .img__inner {
+.slide .img-inner {
 	position: relative;
 	left: 0;
 	display: flex;
@@ -44,7 +44,7 @@ h1 {
 	text-align: center;
 }
 
-.pagination__item {
+.pagination-item {
 	padding: 3px 7px;
 	font-size: 1em;
 	background-color: rgba(255, 255, 255, .3);
@@ -53,12 +53,12 @@ h1 {
 	cursor: pointer;
 }
 
-.pagination__item:hover {
+.pagination-item:hover {
 	background-color: #fff;
 }
 
-.js-pagination__item,
-.js-pagination__item:hover {
+.js-pagination-item,
+.js-pagination-item:hover {
 	color: #000;
 	background-color: orange;
 }
