@@ -1,0 +1,1 @@
+> [jQuery Effects - 顯示、隱藏與切換](https://docs.f2e.idv.tw/jquery/effects-basics.html)

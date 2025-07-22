@@ -1,0 +1,1 @@
+> [jQuery Effects - 淡入與淡出](https://docs.f2e.idv.tw/jquery/effects-fading.html)

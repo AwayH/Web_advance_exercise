@@ -1,0 +1,1 @@
+> [jQuery Effects - 自訂動畫: animate](https://docs.f2e.idv.tw/jquery/effects-custom.html#animate)

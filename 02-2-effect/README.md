@@ -1,0 +1,1 @@
+> [jQuery Effects - 滑動](https://docs.f2e.idv.tw/jquery/effects-sliding.html)
