@@ -1,0 +1,1 @@
+> [Web API - 定時與排程](https://docs.f2e.idv.tw/javascript/timers-and-scheduling.html)
